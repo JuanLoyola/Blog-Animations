@@ -46,7 +46,7 @@
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  z-index: 3;
+  z-index: 2;
 
   font-family: 'Poppins';
   color:#fff;

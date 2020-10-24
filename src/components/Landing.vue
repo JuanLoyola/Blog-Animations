@@ -90,7 +90,6 @@
       box-sizing: border-box;
       border-radius: 5px;
       justify-content: center;
-      z-index: 1;
       &__text{
         font-family: 'Bebas Neue';
         font-size: 18px;
@@ -106,7 +105,6 @@
     width: 10%;
     animation: MoveUpDown 6s linear infinite;
     position: absolute;
-    z-index: 2;
   }
   @keyframes MoveUpDown {
     0%, 100% {
