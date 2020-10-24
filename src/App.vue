@@ -55,7 +55,7 @@
 
   .name {
     font-family: 'poppins';
-    font-size: 0.6rem;
+    font-size: 0.9rem;
     padding: 10px;
   }
 
@@ -67,7 +67,7 @@
     padding: 10px 10px;
   }
   a:hover {
-    color:#7389E1;
+    color:#d63434;
   }
 }
 #nav ul{
@@ -89,7 +89,7 @@
     transition: all 0.3s ease;
   }
   #nav ul li a:hover{
-    color:#7389E1;
+    color:#aeafb6;
   }
   #nav .menu-btn i{
     color: #fff;
