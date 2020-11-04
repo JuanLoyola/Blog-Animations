@@ -127,7 +127,7 @@
     bottom: 0;
     left: 0;
     max-width: 50%;
-    animation: animate calc(8s * var(--i)) linear infinite;
+    animation: animate calc(12s * var(--i)) linear infinite;
   }
   @keyframes animate {
     0% {
